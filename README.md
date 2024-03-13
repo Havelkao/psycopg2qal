@@ -103,7 +103,6 @@ def register_extensions(app: Flask):
 from app import create_app
 
 app = create_app()
-
 ```
 
 ## Views
